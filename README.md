@@ -24,13 +24,13 @@ gitload -n "komplet-projekt" -r -l -d "Projekt med dokumentation"
 
 ## Funktioner
 
-- ✅ Automatisk git init hvis nødvendigt
-- ✅ Upload alle filer til GitHub
-- ✅ Opret public/private repositories
-- ✅ Tilføj README.md automatisk
-- ✅ Tilføj MIT License automatisk
-- ✅ Farvet output for bedre UX
-- ✅ Fejlhåndtering og validering
+- Automatisk git init hvis nødvendigt
+- Upload alle filer til GitHub
+- Opret public/private repositories
+- Tilføj README.md automatisk
+- Tilføj MIT License automatisk
+- Farvet output for bedre UX
+- Fejlhåndtering og validering
 
 ## Eksempler
 
